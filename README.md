@@ -15,13 +15,13 @@
 
 Need to Check:
 
-> - Accuracy      - Correct Values
+> (- Accuracy      - Correct Values
 - Completeness	- Data fields with Values (Should not be empty)
 - Consistency 	- Values free from contradiction
 - Currency 	    - Values up to Date
 - Relevancy 	  - Data Items with values (meta-data) 
 - Validity	    - Data containing allowable values
-- Uniqueness	  - Records that are duplicated
+- Uniqueness	  - Records that are duplicated)
   
 ### Data Insights
 **Targeting high value customers based on Customer Demographic, Transactions and Customer Attributes**
