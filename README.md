@@ -27,11 +27,11 @@ Need to Check:
 
 ![Screenshot](Dashboard.png)
 
-It also includes modelling to achieve the desired outcome of the specified task
+It also includes modelling to achieve the desired outcome of the specified task.
 
 ### Presentation
 **Using visualisations to present insights**
-Generated Top 1000 Customers to be focused using RFM model
+Generated Top 1000 Customers to be focused using RFM model.
 
 ![Screenshot](Dashboard2.png)
 
