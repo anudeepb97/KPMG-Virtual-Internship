@@ -1,6 +1,6 @@
 # KPMG-Virtual-Internship
 
-## This repository is a development of Data Analytics Consulting Virtual Intership by KPMG (through Forage)
+## This repository is a development of Data Analytics Consulting Virtual Internship by KPMG (through Forage)
 
 #### Main focused on
 - Data Quality Assessment
