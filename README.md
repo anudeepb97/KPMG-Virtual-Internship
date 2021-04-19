@@ -14,8 +14,8 @@
 **Assessment of Data Quality and Completeness in preparation for analysis**
 
 Need to Check:
->
-- Accuracy      - Correct Values
+
+> - Accuracy      - Correct Values
 - Completeness	- Data fields with Values (Should not be empty)
 - Consistency 	- Values free from contradiction
 - Currency 	    - Values up to Date
